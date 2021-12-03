@@ -1,4 +1,4 @@
-# Here are some of my favorite lab assignements from this semester.
+# Here are some of my favorite lab assignments from this semester.
 
 
 
