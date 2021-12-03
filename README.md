@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Here are some of my favorite lab assignements from this semester.
 
-You can use the [editor on GitHub](https://github.com/bradripp/MAGD150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Lab Assignment 4](https://github.com/bradripp/MAGD150-Projects/tree/gh-pages/f21magd150lab04_Ripp) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Assignment 4
+I created an interactive pizza. The pepperoni will appear with you press down on a key. [Lab Assignment 4](https://github.com/bradripp/MAGD150-Projects/tree/gh-pages/f21magd150lab04_Ripp) to rebuild the pages in your site, from the content in your Markdown files.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Assignment 5
+
+I created a TV with a box boucing around the screen. It is also interactive. If you click on the button that says "square," it will color in the box. [Lab Assignment 5](https://github.com/bradripp/MAGD150-Projects/tree/gh-pages/%20f21magd150lab05_Ripp)
 
 ```markdown
 Syntax highlighted code block
